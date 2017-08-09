@@ -1,0 +1,62 @@
+=== Hello Firefly ===
+Contributors: captaintightpants  
+Donate link: Send paypal donations at https://www.paypal.me/hellofirefly
+Tags: Firefly, Serenity, Shiny, The Verse, Malcom Reynolds, Joss Whedon, Let's be bad guys, Browncoats 
+Requires at least: 3.0.1
+Tested up to: 4.6.1
+Stable tag: 1.0.1
+
+Shun-SHENG duh gao-WAHN! Hello Firefly displays an inspiration quote from your favorite TV show of all time across the top of your admin area.  
+
+== Description ==
+
+Hello Firefly builds on the work that Matt Mulenweg did with the 'Hello Dolly' plugin.  I am not a huge Hello Dolly fan (though I designed the lights at a community theater's version of it many years ago and don't remember hating it or anything) but I am a huge fan of the television series Firefly. I thought what would really be cool every time I had to login to wordpress and fix something some Shee-niou editor did that broke the site was if I'd see some line from the show so I could enjoy a laugh and get shiny again.  So I edited a little bit and came up with Hello Firefly.  I added it to a few blogs I managed for a couple of companies and the tech people kept seeing it and asking when I would release it.  So, here it is, so you too can enjoy it.  
+
+== Installation ==
+
+1. Install Hello Firefly automatically or by uploading the ZIP file.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+
+== Frequently Asked Questions ==
+
+= What is Firefly/Serenity? =
+
+Only the finest TV show ever, that Fox screwed up and cancelled after one amazing season.  Go here and get it if you don't own it.   http://goo.gl/QaYFW1
+
+= Why did Fox cancel such an amazing show? =
+
+Because Fox couldn't tell an amazing show from FAY-FAY duh PEE-yen.
+
+= Did you write this plugin? =
+
+Well, I kind of more or less modifed an existing one to suit my needs.  The gorram genius that created the original is the man they call Matt Mullenweg.  This plugin is a fork of that one.  
+
+= Thanks for your work making this plugin.  Can I buy you a cup of coffee? =
+
+I'd love to say "I don't drink coffee.  Buy me a mudder's milk" but that stuf actually sounds gross.  I'm more of a diet coke fan myself.  If you feel so inclined, feel free to send a buck or two at https://www.paypal.me/hellofirefly
+
+
+== Screenshots ==
+
+
+
+== Changelog ==
+
+ 1.0.1 = 
+*Corrected information in the readme file   
+*Added quotes 
+1.0 =
+* Initial release
+
+
+== Upgrade Notice ==
+
+= 1.0 =
+Install me
+
+== Donations ==
+Donation are welcome and appreciated as are suggestions.  If you feel so inclined you can send a few bucks at https://www.paypal.me/hellofirefly.  Thanks
+
+
+
